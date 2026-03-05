@@ -1,25 +1,25 @@
-# <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="wave" width="30"/> hey, i'm Prasad Reddy
+# hey, i'm Prasad Reddy 👋
 
-```python
-class PrasadReddy:
-    name       = "Prasad Reddy Adla"
-    role       = ["SDE", "Backend Engineer", "Full Stack Developer"]
-    stack      = ["Python", "Django", "FastAPI", "ReactJS", "PostgreSQL", "AWS"]
-    location   = "Bhopal, India 🇮🇳"
-    open_to    = "full-time · internships · remote"
-    status     = "deployed · env: production · ready: True"
-    notice     = "immediate"
+> backend engineer · ships clean APIs · deployed & ready 🚀
 
-    def greet(self):
-        return "3am. server's down. everyone's panicking. i fix it. go back to sleep. 💀"
-```
+🌐 **Portfolio** → [prasad-portfolio-i6tw.vercel.app](https://prasad-portfolio-i6tw.vercel.app)
+
+---
+
+### 🧠 what i vibe with
+
+- building things that **actually scale** 🔥
+- **system design** rabbit holes at 2am
+- clean APIs over messy frontends any day 💀
+- reading **Django & FastAPI** source for fun
+- `if it's not in production, did it even ship?`
 
 ---
 
 ### ⚡ currently
 
-- 🔨 **SDE** @ OPM Corporation — building backend systems & REST APIs
-- ⚡ **FastAPI Dev** @ NTP Solutions — Super App endpoints, 99% request success
+- 🔨 **SDE** @ OPM Corporation — backend systems & REST APIs
+- ⚡ **FastAPI Dev** @ NTP Solutions — 99% request success rate
 - 🎓 B.Tech CSE @ **VIT Bhopal** `'26`
 - 🌱 learning `Kubernetes` · `Redis` · `System Design`
 
@@ -54,12 +54,16 @@ class PrasadReddy:
 ### 📊 github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prasad-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=60a5fa&text_color=e4e4e7&icon_color=8b5cf6&include_all_commits=true&count_private=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=60a5fa&text_color=e4e4e7&langs_count=6" height="165"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=prasad-dotcom&show_icons=true&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=60a5fa&text_color=e4e4e7&icon_color=8b5cf6&include_all_commits=true&count_private=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=prasad-dotcom&layout=compact&theme=tokyonight&hide_border=true&bg_color=09090b&title_color=60a5fa&text_color=e4e4e7&langs_count=6" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-dotcom&theme=tokyonight&hide_border=true&background=09090b&ring=60a5fa&fire=8b5cf6&currStreakLabel=4ade80" />
+  <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=prasad-dotcom&theme=tokyonight&hide_border=true&background=09090b&ring=60a5fa&fire=8b5cf6&currStreakLabel=4ade80&dates=6b7280" />
+</p>
+
+<p align="center">
+  <img width="70%" src="https://github-readme-activity-graph.vercel.app/graph?username=prasad-dotcom&bg_color=09090b&color=60a5fa&line=8b5cf6&point=4ade80&area=true&hide_border=true" />
 </p>
 
 ---
@@ -77,6 +81,7 @@ class PrasadReddy:
 ### 📫 reach me
 
 <p>
+  <a href="https://prasad-portfolio-i6tw.vercel.app"><img src="https://img.shields.io/badge/Portfolio-prasad--portfolio-09090b?style=flat-square&logo=vercel&logoColor=white"/></a>
   <a href="mailto:aprasadreddy9@gmail.com"><img src="https://img.shields.io/badge/Gmail-aprasadreddy9-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/prasad-reddy-sde/"><img src="https://img.shields.io/badge/LinkedIn-prasad--reddy--sde-0077B5?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/prasad-dotcom"><img src="https://img.shields.io/badge/GitHub-prasad--dotcom-181717?style=flat-square&logo=github&logoColor=white"/></a>
@@ -91,5 +96,3 @@ class PrasadReddy:
 <p align="center">
   <code>deployed · env: production · ready: True 🚀</code>
 </p>
-
-
